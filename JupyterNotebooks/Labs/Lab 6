@@ -1,0 +1,17 @@
+import java.util.*;
+  
+public class Main() {
+  
+    public static void main(String args[])
+    {
+        LinkedList<String> listItem
+            = new LinkedList<String>();
+
+        listItem.add("Red");
+        listItem.add("Blue");
+        listItem.addLast("Green");
+        listItem.addFirst("Yellow");
+  
+        System.out.println(ll);
+    }
+}
